@@ -45,7 +45,7 @@ public class HbaseTest {
 			System.out.println(JSONObject.toJSONString(baseTable));
 		}
     	
-    	System.out.println("------------------------###----");
+    	System.out.println("----ss--------------------###----");
     	List<Condition> list = new ArrayList<Condition>();
     	Condition cond = new Condition();
     	cond.setFieldName("nickName");
